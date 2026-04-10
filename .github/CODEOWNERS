@@ -1,1 +1,31 @@
 
+#
+# pattern:
+#
+# file/directory            user
+#
+
+# *.js                      @enfin-athar
+
+# tooling/                  @abc-user
+
+# components/*.md           @ahmed
+
+
+# Global owner
+*                           @AtharTurab
+
+# Frontend
+/frontend/                  @frontend-team
+
+# Backend
+/backend/                   @backend-team
+
+# Infrastructure
+/terraform/                 @devops-team
+
+# Critical auth files
+/src/auth/                  @security-team @backend-lead
+
+# GitHub workflows
+/.github/workflows/         @devops-team
