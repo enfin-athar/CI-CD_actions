@@ -16,16 +16,16 @@
 *                           @AtharTurab
 
 # Frontend
-/frontend/                  @frontend-team
+#/frontend/                  @frontend-team
 
 # Backend
-/backend/                   @backend-team
+#/backend/                   @backend-team
 
 # Infrastructure
-/terraform/                 @devops-team
+#/terraform/                 @devops-team
 
 # Critical auth files
-/src/auth/                  @security-team @backend-lead
+#/src/auth/                  @security-team @backend-lead
 
 # GitHub workflows
-/.github/workflows/         @devops-team
+#/.github/workflows/         @devops-team
